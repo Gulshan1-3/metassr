@@ -49,7 +49,7 @@ members = [
     "metassr-cli",
     "crates/metassr-create",
     "crates/metassr-bundler",
-    "crates/metassr-fs-analyzer",
+    "crates/metassr-fs-analyzer", "crates/metassr-hooks",
 ]
 
 [[bin]]

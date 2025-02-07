@@ -1,3 +1,4 @@
+#![allow(unused)]
 use anyhow::Result;
 use axum::{
     extract::{Path, Query},
